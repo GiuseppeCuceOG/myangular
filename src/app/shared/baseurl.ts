@@ -1,1 +1,1 @@
-export const baseURL = 'https://raw.githubusercontent.com/GiuseppeCuceOG/db-conFusion/master/db.json';
+export const baseURL = 'apidata/db.json';
